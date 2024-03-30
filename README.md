@@ -1,2 +1,2 @@
-# M-diaFinal
+# MediaFinal
 Calculo da média final em python
